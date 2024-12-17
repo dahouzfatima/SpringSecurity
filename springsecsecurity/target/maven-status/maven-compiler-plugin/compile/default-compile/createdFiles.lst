@@ -1,0 +1,8 @@
+com\xproce\controller\CardsController.class
+com\xproce\BankBackendApplication.class
+com\xproce\controller\AccountController.class
+com\xproce\controller\NoticesController.class
+com\xproce\config\ProjectSecurityConfig.class
+com\xproce\controller\BalanceController.class
+com\xproce\controller\ContactController.class
+com\xproce\controller\LoansController.class
